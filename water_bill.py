@@ -141,7 +141,7 @@ with open(meter_readings_file, newline="") as csvfile:
     meter_readings_data = [row for row in csvreader]
 
 # Create a Canvas object for the PDF
-c = canvas.Canvas(currentMonth + ", " + currentYear + " Graceland Water Invoices.pdf", pagesize=A4)
+c = canvas.Canvas(currentMonth + ", " + currentYear + " Drip Dues.pdf", pagesize=A4)
 
 # Define the margins
 left_margin = 0.2 * inch
