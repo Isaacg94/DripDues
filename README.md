@@ -1,6 +1,6 @@
 
 
-<h1 align="center">DripDues</h1>
+<h3 align="center">DripDues</h3>
 
 
 
@@ -31,7 +31,7 @@ Clone this repository
 git clone https://github.com/Isaacg94/DripDues.git
 ```
 
-Navigate to the directory
+Navigate into the directory
 
 ```
 cd DripDues
@@ -48,7 +48,7 @@ Add some data to the **`meter_readings.csv`** file in the outlined format.
 
 ### Run the script
 
-Whilst on your project directory in your terminal, run the following command to run the project:
+Whilst in your project directory on your terminal, run the following command:
 ```
 python water_bill.py
 ```
