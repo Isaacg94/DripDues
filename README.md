@@ -54,4 +54,4 @@ python water_bill.py
 ```
 ## 💰 Roses are red, diamonds are blue, pockets is green, a permanent hue
 
-The generated PDF file of invoices will appear inside the DripDues directory titled: **`current_month,current_year Drip Dues.PDF`** 
+The generated PDF file of invoices will appear inside the DripDues directory titled: **`current_month,current_year`** Drip Dues.pdf
